@@ -40,6 +40,26 @@
         "name": "ArabSeedProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-ext",
+        "fileSize": 13506,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 4,
+        "internalName": "EgyDeadProvider",
+        "url": "https://raw.githubusercontent.com/muxt0/cs-ext/build/providers/EgyDeadProvider.cs3",
+        "name": "EgyDeadProvider"
+    },
+    {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/muxt0/cs-ext",
