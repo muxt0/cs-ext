@@ -1,0 +1,9 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/muxt0/cs-ext/build/extensions/SPR.json",
+        "verified": true
+    },
+    
+    "https://raw.githubusercontent.com/muxt0/cs-ext/build/extensions/APR.json",
+    "https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json"
+]
