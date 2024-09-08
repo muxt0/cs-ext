@@ -1,0 +1,17 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-ext",
+        "fileSize": 6948,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "YY-KO"
+        ],
+        "version": 1,
+        "internalName": "MuxtProvider",
+        "description": "This plugin adds all repositories each time the app is opened. Uninstall after one run if you do not want all repositories. Does not automatically refresh the repository list.",
+        "url": "https://raw.githubusercontent.com/muxt0/cs-ext/build/providers/MuxtProvider.cs3",
+        "name": "MuxtProvider"
+    }
+]
