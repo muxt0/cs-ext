@@ -1,0 +1,140 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-ext",
+        "fileSize": 13693,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 4,
+        "internalName": "AkwamProvider",
+        "url": "https://raw.githubusercontent.com/muxt0/cs-ext/build/providers/AkwamProvider.cs3",
+        "name": "AkwamProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-ext",
+        "fileSize": 16392,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 16,
+        "internalName": "ArabSeedProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabSeedProvider.cs3",
+        "name": "ArabSeedProvider"
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-ext",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "FajerShowProvider",
+        "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/FajerShowProvider.cs3",
+        "name": "FajerShowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-ext",
+        "fileSize": 11561,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FushaarProvider",
+        "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/FushaarProvider.cs3",
+        "name": "FushaarProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=movizland.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 17979,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 5,
+        "internalName": "MovizlandProvider",
+        "description": "Not recommended for series.",
+        "url": "https://raw.githubusercontent.com/muxt0/cs-ext/build/providers/MovizlandProvider.cs3",
+        "name": "MovizlandProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=shabakaty-tv.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-ext",
+        "fileSize": 17490,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "ShabakatyTV",
+        "description": "شاهد افضل القنوات الفضائية المتنوعة",
+        "url": "https://raw.githubusercontent.com/muxt0/cs-ext/build/providers/ShabakatyTV.cs3",
+        "name": "ShabakatyTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/muxt0/cs-ext",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "YY-KO"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "ToktokProvider",
+        "url": "https://raw.githubusercontent.com/muxt0/cs-ext/build/providers/Toktok.cs3",
+        "name": "ToktokProvider"
+    }
+]
