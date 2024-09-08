@@ -1,0 +1,8 @@
+{
+    "name": "Muxt repository",
+    "description": "Add all repositories easily.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/muxt0/cs-ext/build/plugins.json"
+    ]
+}
