@@ -1,0 +1,8 @@
+{
+    "name": "Streaming providers repository",
+    "description": "Streaming extension Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/muxt0/cs-ext/build/extensions/streaming.json"
+    ]
+}
