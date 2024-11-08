@@ -1,0 +1,253 @@
+#EXTM3U
+
+# * » أخبار « * #
+#EXTINF:-1 tvg-name="Karbala TV" tvg-language="Arabic" tvg-country="IQ" tvg-id="Karbala_TV" tvg-logo="https://graph.org/file/60410314c7d25ef1b78be.jpg" group-title="أخبار",Karbala TV
+http://stream.shabakaty.com:6001/news/ch8/ch8_720.m3u8
+
+#EXTINF:-1 tvg-name="AL-Forat" tvg-language="Arabic" tvg-country="IQ" tvg-id="TRT_1" tvg-logo="https://pomf2.lain.la/f/kp98ih90.jpg" group-title="أخبار",AL-Forat
+https://s1.ettehadlive.com/live//10/chunklist_w1402123088.m3u8?v=636245562/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ALjazeera" tvg-language="Arabic" tvg-country="QA" tvg-id="TRT_2" tvg-logo="https://pomf2.lain.la/f/72tbecm.jpg" group-title="أخبار",ALjazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Turk" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" group-title="أخبار",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+
+
+# * » ترفيه « * #
+#EXTINF:-1 tvg-name="MBC 1" tvg-language="Arabic" tvg-country="SA" tvg-id="MBC_1" tvg-logo="https://pomf2.lain.la/f/wtrsov66.jpg" group-title="ترفيه",MBC 1
+http://stream.shabakaty.com:6001/enter/ch15/ch15_720.m3u8
+
+#EXTINF:-1 tvg-name="MBC iraq" tvg-language="Arabic" tvg-country="IQ" tvg-id="MBC_iraq" tvg-logo="https://pomf2.lain.la/f/jszinup0.jpg" group-title="ترفيه",MBC iraq
+http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
+
+#EXTINF:-1 tvg-name="MBC 4" tvg-language="Arabic" tvg-country="SA" tvg-id="MBC_4" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="ترفيه",MBC 4
+http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
+
+#EXTINF:-1 tvg-name="Mbc variety" tvg-language="Arabic" tvg-country="SA" tvg-id="Mbc_variety" tvg-logo="https://pomf2.lain.la/f/kxrnizgn.jpg" group-title="ترفيه",Mbc variety
+http://stream.shabakaty.com:6001/enter/ch23/ch23_720.m3u8
+
+#EXTINF:-1 tvg-name="LBC" tvg-language="Arabic" tvg-country="SA" tvg-id="LBC" tvg-logo="https://pomf2.lain.la/f/n5w6oh7.jpg" group-title="ترفيه",LBC
+http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
+
+#EXTINF:-1 tvg-name="Living" tvg-language="Arabic" tvg-country="SA" tvg-id="Living" tvg-logo="https://pomf2.lain.la/f/z2pagrfq.jpg" group-title="ترفيه",Living
+http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
+
+#EXTINF:-1 tvg-name="fashion tv" tvg-language="English" tvg-country="USA" tvg-id="fashion_tv" tvg-logo="https://pomf2.lain.la/f/05vkykjl.jpg" group-title="ترفيه",fashion tv
+http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
+
+
+
+# * » رياضة « * #
+#EXTINF:-1 tvg-name="SSC1" tvg-language="Arabic" tvg-country="SA" tvg-id="SSC_1" tvg-logo="https://pomf2.lain.la/f/dc43jzoh.jpg" group-title="رياضة",SSC1
+http://stream.shabakaty.com:6010/sport/ch9/ch9_1080.m3u8
+
+#EXTINF:-1 tvg-name="SSC2" tvg-language="Arabic" tvg-country="SA" tvg-id="SSC_2" tvg-logo="https://pomf2.lain.la/f/dc43jzoh.jpg" group-title="رياضة",SSC2
+http://stream.shabakaty.com:6011/sport/ch10/ch10_1080.m3u8
+
+#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="رياضة",Now TV
+https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="رياضة",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="رياضة",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+
+#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="رياضة",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="رياضة",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
+#EXTINF:-1 tvg-name="Teve2" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_Teve2" tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM" group-title="رياضة",Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+
+#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="رياضة",A2
+https://c.fulltvizle.com/a2/index.m3u8
+
+#EXTINF:-1 tvg-name="TV 4" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_TV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="رياضة",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-name="CNBC-e" tvg-language="Turkish" tvg-country="TR" tvg-id="ترفيه_CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="رياضة",CNBC-e (Youtube)
+https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+
+#EXTINF:-1 tvg-name="Lalegül TV" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_LalegulTV" tvg-logo="https://pbs.twimg.com/profile_images/1310471094344781824/mHv5RJn5_400x400.png" group-title="رياضة",Lalegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 7" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_Kanal7" tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="رياضة",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-name="Life TV" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_LifeTV" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="رياضة",Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine1" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_Cine1" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="رياضة",Cine1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CINE 5" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_CINE5" tvg-logo="https://imgrosetta.mynet.com.tr/file/2194387/728xauto.jpg" group-title="رياضة",CINE 5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fashion TV" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_FashionTV" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="رياضة",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fashion Film" tvg-language="Turkish" tvg-country="TR" tvg-id="رياضة_FashionFilm" tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g" group-title="رياضة",Fashion Film
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+
+
+# * » أفلام « * #
+#EXTINF:-1 tvg-name="أفلام İlkOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="أفلام_IlkOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886648.png" group-title="أفلام",أفلام İlkOkul
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="أفلام OrtaOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="أفلام_OrtaOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886647.png" group-title="أفلام",أفلام OrtaOkul
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="أفلام Lise" tvg-language="Turkish" tvg-country="TR" tvg-id="أفلام_Lise" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886628.png" group-title="أفلام",أفلام Lise
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+
+
+
+# * » مسلسلات « * #
+#EXTINF:-1 tvg-name="سينمانا تركي" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="مسلسلات",TRT Çocuk
+http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
+
+#EXTINF:-1 tvg-name="Cinemana Series" tvg-language="English" tvg-country="USA" tvg-id="Cinemana_Series" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="مسلسلات",Cinemana Series
+http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
+
+#EXTINF:-1 tvg-name="Cinemana Series Ongoing" tvg-language="English" tvg-country="USA" tvg-id="Cinemana_Series_Ongoing" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="مسلسلات",Cinemana Series Ongoing
+http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
+
+#EXTINF:-1 tvg-name="Cinemana Anime" tvg-language="Japanese" tvg-country="JP" tvg-id="Cinemana_Anime" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="مسلسلات",Cinemana Anime
+http://stream.shabakaty.com:6001/series/ch2/ch2_720.m3u8
+
+#EXTINF:-1 tvg-name="MBC Drama" tvg-language="Arabic" tvg-country="SA" tvg-id="MBC_Drama" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="مسلسلات",MBC Drama
+http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="مسلسلات",Cartoonito TV
+https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zarok TV" tvg-language="Kurdish" tvg-country="IR" tvg-id="CizgiFilm_ZarokTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="مسلسلات",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+
+
+# * » أطفال « * #
+#EXTINF:-1 tvg-name="TRT أطفال" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="أطفال",TRT أطفال
+https://tv-trtأطفال1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT أطفال Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_أطفالYildiz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="أطفال",TRT أطفال Yıldız
+https://tv-trtأطفال2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="أطفالts TV" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_أطفالtsTV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="أطفال",أطفالts TV
+https://live.أطفالtstv.com.tr/hls/low/أطفالtstv.m3u8
+# ? http://stream.tvcdn.net/أطفال/أطفالts-tv.m3u8/
+
+#EXTINF:-1 tvg-name="beIN أطفالTS ترفيه" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_beINأطفالTSترفيه" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-أطفالts-ترفيه-logo.jpg.webp" group-title="أطفال",beIN أطفالTS ترفيه
+https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+# ? http://stream.tvcdn.net/أطفال/bein-أطفالts-ترفيه.m3u8
+
+#EXTINF:-1 tvg-name="TJK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="أطفال",TJK TV
+http://stream.tvcdn.net/أطفال/tjk-tv.m3u8
+
+#EXTINF:-1 tvg-name="GS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_GSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG" group-title="أطفال",GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+#EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_FBTV" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="أطفال",FB TV
+http://stream.tvcdn.net/أطفال/fb-tv.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="أطفال_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="أطفال",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinnbatv.m3u8
+
+#EXTINF:-1 tvg-name="Euro أطفالt" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_Euroأطفالt" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-euroأطفالt-1-euroأطفالt-2-television-channel-1-euro-television-blue-angle.png" group-title="أطفال",Euro أطفالt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayineu1.m3u8
+# ? https://euroأطفالt1.blutv.com/blutv_euroأطفالt1/euroأطفالt1_hd.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="Euro أطفالt 2" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_Euroأطفالt2" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-euroأطفالt-1-television-channel-logo-euroأطفالt-2-others-miscellaneous-television-text.png" group-title="أطفال",Euro أطفالt 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayineu2.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu أطفال 1" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_Tivibuأطفال1" tvg-logo="https://www.theأطفالtsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="أطفال",Tivibu أطفال 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayint1.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu أطفال 2" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_Tivibuأطفال2" tvg-logo="https://www.theأطفالtsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="أطفال",Tivibu أطفال 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayint2.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu أطفال 3" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_Tivibuأطفال3" tvg-logo="https://www.theأطفالtsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="أطفال",Tivibu أطفال 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayint3.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu أطفال 4" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_Tivibuأطفال4" tvg-logo="https://www.theأطفالtsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="أطفال",Tivibu أطفال 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayint4.m3u8
+
+#EXTINF:-1 tvg-name="أطفال Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_أطفالSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="أطفال",أطفال Smart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-name="أطفال Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_أطفالSmart2" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/أطفالSMART2-gri.png" group-title="أطفال",أطفال Smart 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinsms2.m3u8
+
+#EXTINF:-1 tvg-name="S أطفالT" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_SأطفالT" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="أطفال",S أطفالT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinss.m3u8
+
+#EXTINF:-1 tvg-name="S أطفالT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_SأطفالT2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="أطفال",S أطفالT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinss2.m3u8
+
+#EXTINF:-1 tvg-name="beIN أطفالTS" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_beINأطفالTS" tvg-logo="https://www.theأطفالtsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="أطفال",beIN أطفالTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayin1.m3u8
+
+#EXTINF:-1 tvg-name="beIN أطفالTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_beINأطفالTS2" tvg-logo="https://www.theأطفالtsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="أطفال",beIN أطفالTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinb2.m3u8
+
+#EXTINF:-1 tvg-name="beIN أطفالTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_beINأطفالTS3" tvg-logo="https://www.theأطفالtsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="أطفال",beIN أطفالTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinb3.m3u8
+
+#EXTINF:-1 tvg-name="beIN أطفالTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_beINأطفالTS4" tvg-logo="https://www.theأطفالtsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="أطفال",beIN أطفالTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinb4.m3u8
+
+#EXTINF:-1 tvg-name="beIN أطفالTS 5" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_beINأطفالTS5" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="أطفال",beIN أطفالTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinb5.m3u8
+
+#EXTINF:-1 tvg-name="beIN أطفالTS Max" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_beINأطفالTSMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_أطفالts_MAX.png" group-title="أطفال",beIN أطفالTS Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinbm1.m3u8
+
+#EXTINF:-1 tvg-name="beIN أطفالTS Max 2" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_beINأطفالTSMax2" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="أطفال",beIN أطفالTS Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinbm2.m3u8
+
+#EXTINF:-1 tvg-name="EXXEN" tvg-language="Turkish" tvg-country="TR" tvg-id="أطفال_EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="أطفال",EXXEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals910.xyz/
+https://osaka.trgoalshls13.shop/yayinex1.m3u8
